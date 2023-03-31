@@ -14,7 +14,7 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>Knight's Creek – Outdoor Lifestyle</title>
+				<title>Knight&apos;s Creek – Outdoor Lifestyle</title>
 				<meta name="description" content="Knight's Creek – Outdoor Lifestyle" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<link rel="icon" type="image/png" href="/knightscreeklogo.png" />

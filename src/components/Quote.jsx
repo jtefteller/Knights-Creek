@@ -12,7 +12,10 @@ export default function Quote() {
 					className="w-24"
 				/>
 				<div className="mr-24 text-center">
-					<p>"You can't find a better group of people to work with!"</p>
+					<p>
+						&ldquo;You can&apos;t find a better group of people to work
+						with!&ldquo;
+					</p>
 					<p>-Tammy Tefteller</p>
 				</div>
 			</div>

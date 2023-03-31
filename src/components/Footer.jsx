@@ -69,7 +69,7 @@ export default function Footer() {
 					</div>
 					<div className="mt-8 md:order-1 md:mt-0">
 						<p className="text-md text-center leading-5">
-							&copy; {new Date().getFullYear()} Knight's Creek. All rights
+							&copy; {new Date().getFullYear()} Knight&apos;s Creek. All rights
 							reserved.
 						</p>
 					</div>

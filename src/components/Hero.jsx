@@ -6,7 +6,7 @@ export default function Hero() {
 			<div className="z-10 m-auto flex max-w-5xl pt-10 text-center">
 				<div className="z-10 w-full">
 					<h1 className="mb-7 text-4xl font-bold text-white md:text-7xl">
-						KNIGHT'S CREEK
+						KNIGHT&apos;S CREEK
 					</h1>
 					<h2 className="mb-7 text-3xl font-bold text-white md:text-4xl">
 						BOOK YOUR NEXT VISIT
