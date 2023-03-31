@@ -1,3 +1,2 @@
 ## Website
-
-[Knights Creek](www.knights-creek.com)
+www.knights-creek.com
