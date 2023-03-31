@@ -46,7 +46,7 @@ export default function Contact() {
 					<Card className={"min-w-[350px] p-5"}>
 						<div className="flex flex-col">
 							<h2 className="pb-2 text-4xl font-bold">
-								We're Ready, Let's Talk.
+								We&apos;re Ready, Let&apos;s Talk.
 							</h2>
 							<form onSubmit={handleSubmit}>
 								<div>

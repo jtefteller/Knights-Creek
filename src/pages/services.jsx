@@ -54,7 +54,7 @@ export default function Services() {
 					<div className="flex flex-col items-center justify-center gap-20 md:flex-row">
 						<div>
 							<h1 className="text-center text-2xl font-bold md:text-left">
-								Why Knight's Creek
+								Why Knight&apos;s Creek
 							</h1>
 							<Separator className={"m-auto py-5 md:ml-0"} />
 							<p className="text-lg">
