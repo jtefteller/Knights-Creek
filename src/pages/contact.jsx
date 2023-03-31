@@ -99,7 +99,7 @@ export default function Contact() {
 							</div>
 							<div className="py-5">
 								<h3 className="text-lg font-bold">Email Us</h3>
-								<p>knightscreekwebsite@gmail.com </p>
+								<p>knightscreekcamp@gmail.com</p>
 							</div>
 							<div className="py-5">
 								<h3 className="text-lg font-bold">Call Us</h3>
