@@ -21,7 +21,7 @@ export default function Contact() {
       email: event.target.email.value,
       message: event.target.message.value,
     };
-    if (!data.first || !data.last || !data.email || !data.message) {
+    if (!data.first_name || !data.last_name || !data.email || !data.message) {
       return;
     }
     const JSONdata = JSON.stringify(data);
