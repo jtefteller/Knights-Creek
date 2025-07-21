@@ -148,7 +148,7 @@ export function Header() {
               <NavLink href="/services">Services</NavLink>
               <NavLink href="/contact">Contact</NavLink>
             </div>
-            <Button href="/contact" color="blue" className="hidden md:block">
+            <Button href="/contact" className="hidden md:block">
               <span>Book Now</span>
             </Button>
             <div className="-mr-1 md:hidden">
