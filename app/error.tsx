@@ -22,7 +22,6 @@ export default function Error({
       />
       <h1 className="text-7xl font-bold z-20">Something went wrong!</h1>
       <Button
-        className="mt-4 rounded-md bg-blue-500 px-4 py-2 text-sm text-white transition-colors hover:bg-blue-400"
         onClick={
           // Attempt to recover by trying to re-render the invoices route
           () => reset()
