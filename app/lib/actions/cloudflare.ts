@@ -14,7 +14,7 @@ export async function sendContactMessage(formData: FormData) {
         phone_number: formData.get("phone_number"),
         message: formData.get("message"),
       });
-    const response = await fetch(
+    await fetch(
       "https://autumn-wildflower-c93c.justin-128.workers.dev/message",
       {
         method: "POST",

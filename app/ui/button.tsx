@@ -5,13 +5,12 @@ export default function Button({
   children,
   className,
   href,
-  ...props
 }: {
   variant?: "primary" | "header";
   children: React.ReactNode;
   className?: string;
   href?: string;
-  [props: string]: any;
+  onClick?: () => void;
 }) {
   const varientStyle = {
     primary:
