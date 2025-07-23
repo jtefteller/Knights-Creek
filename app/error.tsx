@@ -2,6 +2,7 @@
 
 import { useEffect } from "react";
 import Button from "@/app/ui/button";
+
 export default function Error({
   error,
   reset,
